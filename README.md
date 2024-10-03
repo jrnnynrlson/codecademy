@@ -1,4 +1,4 @@
-![Illustration of woman holding up a phone with the Primer logo](images/primerheader.png)
+![boss texts](codecademy_bosstexts.mov)
 # Codecademy
 <br />
 
