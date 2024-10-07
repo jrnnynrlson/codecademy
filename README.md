@@ -1,4 +1,5 @@
 ![boss texts](codecademy_bosstexts.mov)
+
 # Codecademy
 <br />
 
@@ -10,6 +11,9 @@ My experience writing marketing and UX copy for Codecademy has allowed me to pra
 
 As I work with writers and marketers across multiple teams, it's important that we accurately and consistently describe our product and do so while adhering to our brand style guide. Together with the creative team, I helped develop a glossary of product features that we refer to regularly as we write new email newsletters, social posts, and onsite banners (to name just a few).
 <br />
+
+
+
 
 
 ![bootcamps](images/codecademy_bootcamps.png)
