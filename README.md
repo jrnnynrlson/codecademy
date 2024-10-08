@@ -5,7 +5,7 @@ From 2022 to present I have worked as a freelance copywriter for Codecademy, an 
 
 ![learnerstory](images/codecademy_learnerstory.png)
 
-I work closely with a creative team of designers and writers, as well as CRM, social media, and content leads, to develop ideas and copy for on-site copy, emails, paid ads, and more.
+I work closely with a creative team of designers and writers, as well as CRM, social media, and content leads, to develop ideas and copy for landing pages, on-site UX, emails, paid ads, and more.
 
 ![datascience](images/codecademy_datascience.png)
 
