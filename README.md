@@ -9,7 +9,7 @@ I work closely with a creative team of designers and writers, as well as CRM, so
 
 ![datascience](images/codecademy_datascience.png)
 
-My experience writing marketing and UX copy for Codecademy has allowed me to practice writing with precision and clarity and using problem solving skills to work with character limits and formatting constraints determined by digital marketing tools like Digioh, Instapage, and Stensul. 
+My experience writing marketing and UX copy for Codecademy has allowed me to practice writing with precision and clarity. I use problem solving skills daily to work within character limits and formatting constraints determined by digital marketing tools like Digioh, Instapage, and Stensul. 
 
 ![lightbox](codecademylightbox.png)
 
