@@ -8,7 +8,6 @@ From 2022 to present I have worked as a freelance copywriter for Codecademy, an 
 I work closely with a creative team of designers and writers, as well as CRM, social media, and content leads, to develop ideas and copy for landing pages, on-site UX, emails, paid ads, and more.
 
 ![datascience](images/codecademy_datascience.png)
-![republicday](images/codecademyemail.png)
 
 My experience writing marketing and UX copy for Codecademy has allowed me to practice writing with precision and clarity. I use problem solving skills daily to work within character limits and formatting constraints determined by digital marketing tools like Digioh, Instapage, and Stensul. 
 
